@@ -1,0 +1,17 @@
+#!/usr/bin/env python3
+"""
+Example script for running data collection.
+This is a placeholder - implement when ready.
+"""
+
+# TODO: Implement data collection script
+# - Accept command line arguments (source, type, date range)
+# - Initialize appropriate collector
+# - Run collection
+# - Save data to storage
+# - Log results
+
+if __name__ == "__main__":
+    print("Data collection script - to be implemented")
+    pass
+

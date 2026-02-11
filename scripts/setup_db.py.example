@@ -1,0 +1,16 @@
+#!/usr/bin/env python3
+"""
+Example script for setting up the database.
+This is a placeholder - implement when ready.
+"""
+
+# TODO: Implement database setup
+# - Create database if it doesn't exist
+# - Run migrations
+# - Create initial tables
+# - Seed with sample data (optional)
+
+if __name__ == "__main__":
+    print("Database setup script - to be implemented")
+    pass
+
